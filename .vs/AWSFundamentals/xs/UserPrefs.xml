@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{39783347-4A67-4993-B8C0-CB0F78F08B0F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ncheburet/Projects/AWSFundamentals/Program.cs" relfile="Program.cs" line="36" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AWSFundamentals PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="29" Column="52" />
+      <File FileName="CustomerCreated.cs" Line="4" Column="15" />
+      <File FileName="../../Downloads/aws-fundamentals-final-master/3.Sqs/Customers.Api/Contracts/Data/CustomerDto.cs" Line="1" Column="1" />
+      <File FileName="../../Downloads/aws-fundamentals-final-master/3.Sqs/Customers.Api/Controllers/CustomerController.cs" Line="37" Column="31" />
+      <File FileName="../Consumer/Program.cs" Line="31" Column="1" />
+      <File FileName="../Consumer/CustomerCreated.cs" Line="15" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AWSFundamentals" expanded="True">
+            <Node name="AWSFundamentals" expanded="True" />
+            <Node name="Consumer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

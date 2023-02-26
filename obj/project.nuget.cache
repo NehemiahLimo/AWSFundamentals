@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qkf7Wob5i5R+RfJ0TD7E39Fy5ka9E3C3NfWApLE9P4caHccWSq6/PP9b/dgKq6s5n5HijSxD73P5vTw1mpIKOw==",
+  "success": true,
+  "projectFilePath": "/Users/ncheburet/Projects/AWSFundamentals/AWSFundamentals.csproj",
+  "expectedPackageFiles": [
+    "/Users/ncheburet/.nuget/packages/awssdk.core/3.7.105.2/awssdk.core.3.7.105.2.nupkg.sha512",
+    "/Users/ncheburet/.nuget/packages/awssdk.sqs/3.7.100.73/awssdk.sqs.3.7.100.73.nupkg.sha512"
+  ],
+  "logs": []
+}
